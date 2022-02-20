@@ -1,4 +1,2 @@
 # KocCat-Game
-Programming Assignment of Comp132 Advanced Programming
-
-A Pacman like game. 
+Programming Assignment #1 of Comp132 Advanced Programming - A Pacman like game
